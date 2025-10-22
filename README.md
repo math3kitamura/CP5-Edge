@@ -12,3 +12,13 @@ Prova de Conceito (PoC) de uma arquitetura IoT utilizando **FIWARE Orion Context
 ## 🔗 Link para o Projeto no Wokwi
 
 [Projeto no Wokwi](https://wokwi.com/projects/445542487420828673)
+
+## 📷 Imagem do Projeto no Wokwi
+<p align="center">
+  <img />
+</p>
+
+## 📷 Imagem do Postman
+<p align="center">
+  <img />
+</p>
