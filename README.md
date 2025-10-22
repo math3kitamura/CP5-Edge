@@ -1,4 +1,4 @@
-# 🏭 Projeto Vinheria – Arquitetura IoT com FIWARE Orion
+# CP5 – Arquitetura IoT com FIWARE Orion
 
 ## Descrição
 Prova de Conceito (PoC) de uma arquitetura IoT utilizando **FIWARE Orion Context Broker** em ambiente local (Docker). O dispositivo IoT (ESP32 simulado no **Wokwi**) envia leituras de **Temperatura**, **Umidade**, **Luminosidade** e **Distância (Ultrassom)** via HTTP/JSON para o Orion. Os dados são consultados em tempo real via **Postman**.
