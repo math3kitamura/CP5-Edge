@@ -1,6 +1,7 @@
-# Edge-Computing-CP4
+# 🏭 Projeto Vinheria – Arquitetura IoT com FIWARE Orion
 
-Projeto de Edge Computing & IoT para o Check Point 5, com o objetivo de criar um projeto do nosso primeiro protótipo de monitoramento global de vinherias, utilizando um DOIT ESP32 DEVKIT 1 equipado com sensores DHT11 e LDR, e utilizando Thingspeak.
+## Descrição
+Prova de Conceito (PoC) de uma arquitetura IoT utilizando **FIWARE Orion Context Broker** em ambiente local (Docker). O dispositivo IoT (ESP32 simulado no **Wokwi**) envia leituras de **Temperatura**, **Umidade**, **Luminosidade** e **Distância (Ultrassom)** via HTTP/JSON para o Orion. Os dados são consultados em tempo real via **Postman**.
 
 ## Nome dos Participantes
 - Matheus Kitamura Gurther – RM 563205
